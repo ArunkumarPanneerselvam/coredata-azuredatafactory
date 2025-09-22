@@ -1,0 +1,9 @@
+{
+	"name": "coredata-datafactory1",
+	"location": "newzealandnorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "47dd0c4c-2ece-4a91-95c8-af1594c609df",
+		"tenantId": "220f5dc3-9452-48e5-9b4f-888df42f7a2d"
+	}
+}
