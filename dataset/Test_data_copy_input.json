@@ -1,0 +1,19 @@
+{
+	"name": "Test_data_copy_input",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureBlobStorage_coredata_ctn_source",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "test_data.txt",
+				"folderPath": "input",
+				"container": "source"
+			}
+		}
+	}
+}
