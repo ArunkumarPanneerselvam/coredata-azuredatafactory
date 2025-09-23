@@ -2,7 +2,7 @@
 	"name": "coredata-datafactory1",
 	"properties": {
 		"globalConfigurations": {
-			"PipelineBillingEnabled": "true"
+			"PipelineBillingEnabled": "false"
 		}
 	},
 	"location": "newzealandnorth",
