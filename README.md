@@ -1,4 +1,7 @@
 
+<img width="1000" height="420" alt="image" src="https://github.com/user-attachments/assets/1f94b162-cb46-4255-a83a-c893b7859a65" />
+
+
 🚀 Azure Data Factory - Simple Pipeline Demo
 Welcome to the coredata-azuredatafactory repository!
 This project contains step-by-step code, configuration, and screenshots for building a simple data pipeline using Azure Data Factory (ADF).
