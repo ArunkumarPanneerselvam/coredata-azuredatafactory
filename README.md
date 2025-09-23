@@ -36,7 +36,11 @@ Click Review + Create
 
 Deploy & Go to Resource
 
-<details> <summary>📸 Click to view example screenshot</summary> <img src="screenshots/adf-create.png" alt="ADF Create Example" width="400"/> </details>
+<details> <summary>📸 Click to view create Data Factory screenshot</summary> <img width="940" height="852" alt="image" src="https://github.com/user-attachments/assets/762d9f71-d8f2-47d2-9433-44f30c9d1dee" /> </details>
+
+<details> <summary>📸 Click to view example screenshot</summary> <img width="940" height="906" alt="image" src="https://github.com/user-attachments/assets/9b333372-541d-4731-8186-8b5625fc3505" /> </details>
+
+
 2. GitHub Integration
 Create a GitHub repo (private or public)
 
