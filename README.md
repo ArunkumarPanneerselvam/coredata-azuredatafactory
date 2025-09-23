@@ -1,4 +1,15 @@
 
+# ADF_Pipeline_Simple_Copy
+
+Azure Data Factory: Building a Simple Pipeline - Step-by-Step Guide
+
+![Azure](https://img.shields.io/badge/Azure-Data%20Factory-%230072C6?logo=microsoft-azure&logoColor=white)
+![Pipeline](https://img.shields.io/badge/Pipeline-ETL-orange)
+![Blob Storage](https://img.shields.io/badge/Azure-Blob%20Storage-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+---
+
 <img width="1000" height="420" alt="image" src="https://github.com/user-attachments/assets/1f94b162-cb46-4255-a83a-c893b7859a65" />
 
 
