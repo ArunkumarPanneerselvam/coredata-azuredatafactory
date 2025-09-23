@@ -94,7 +94,7 @@ Use Storage Explorer or Azure Portal (Blob storage) to confirm the results
 📖 For a Detailed Guide
 📝 Read the full step-by-step blog here:
 Full Tutorial & Explanations »
-(Replace with your actual blog URL)
+(https://dev.to/arunkumar_panneerselvam_2/azure-data-factory-building-a-simple-pipeline-step-by-step-guide-ilb)
 
 🙋 Feedback & Questions
 Feel free to open an issue or submit a pull request if you spot anything that can be improved.
