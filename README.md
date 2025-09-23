@@ -1,4 +1,3 @@
-<img width="940" height="735" alt="image" src="https://github.com/user-attachments/assets/d48b0452-63f9-4459-9d51-bced99947405" /># coredata-azuredatafactory
 
 🚀 Azure Data Factory - Simple Pipeline Demo
 Welcome to the coredata-azuredatafactory repository!
