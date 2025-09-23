@@ -109,7 +109,8 @@ Review activity runs and logs for details
 
 <details> <summary>📸 Click to view Activity run creation screenshot</summary> <img width="940" height="430" alt="image" src="https://github.com/user-attachments/assets/3f2d797f-019f-471f-8787-a3a0a48e0fd7" />  </details>
  
-![Run detailed log]( <img width="940" height="735" alt="image" src="https://github.com/user-attachments/assets/4a1e9d2b-2c70-4c68-8c23-98c0028fc7e3" />
+Detailed Activity run log,
+<img width="940" height="735" alt="image" src="https://github.com/user-attachments/assets/4a1e9d2b-2c70-4c68-8c23-98c0028fc7e3" />
 
 8. Verify Output
 Check the output blob in the sink container (test_data_out.log)
