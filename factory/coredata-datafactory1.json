@@ -1,5 +1,10 @@
 {
 	"name": "coredata-datafactory1",
+	"properties": {
+		"globalConfigurations": {
+			"PipelineBillingEnabled": "true"
+		}
+	},
 	"location": "newzealandnorth",
 	"identity": {
 		"type": "SystemAssigned",
