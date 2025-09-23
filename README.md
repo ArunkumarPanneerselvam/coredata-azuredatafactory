@@ -48,22 +48,28 @@ Link your ADF to your GitHub (for versioning & collaboration)
 
 Authorize access
 
-![GitHub Connect Example](screenshots/<img width="925" height="1350" alt="image" src="https://github.com/user-attachments/assets/64da1373-d11f-4f3e-a361-63c53213f5e5" />. Launch Data Factory Studio
+![GitHub Connect Example](screenshots/<img width="925" height="1350" alt="image" src="https://github.com/user-attachments/assets/64da1373-d11f-4f3e-a361-63c53213f5e5" />. 
 
 
+3. Launch Data Factory Studio & Open the ADF Studio and explore the homepage layout!Open the ADF Studio and explore the homepage layout!
 
-Open the ADF Studio and explore the homepage layout!
+<img width="940" height="718" alt="image" src="https://github.com/user-attachments/assets/6917d84e-fde3-41d1-a7f0-c413e1cfd6b3" />
 
-![ADF Home](
 
 4. Create a Storage Account (Source/Sink)
 Azure Portal → "Storage Account" → "Create"
 
 Configure name, redundancy, region
 
+<img width="940" height="1000" alt="image" src="https://github.com/user-attachments/assets/5506a107-0fae-4fa5-a9b5-bbf5eb451e4d" />
+
+
 Click Review + Create and deploy
 
-![Storage Account Example](screenshots/storage-create 5. Build & Configure Your Pipeline
+![Storage Account Example](screenshots/<img width="940" height="963" alt="image" src="https://github.com/user-attachments/assets/70a9a90d-af55-4d51-9345-b946e5e04442" /> )
+
+
+5. Build & Configure Your Pipeline
 
 Create a pipeline named data_copy_pipeline
 
