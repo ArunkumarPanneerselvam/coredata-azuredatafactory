@@ -48,7 +48,9 @@ Link your ADF to your GitHub (for versioning & collaboration)
 
 Authorize access
 
-![GitHub Connect Example](screenshots/adf-github.png. Launch Data Factory Studio
+![GitHub Connect Example](screenshots/<img width="925" height="1350" alt="image" src="https://github.com/user-attachments/assets/64da1373-d11f-4f3e-a361-63c53213f5e5" />. Launch Data Factory Studio
+
+
 
 Open the ADF Studio and explore the homepage layout!
 
